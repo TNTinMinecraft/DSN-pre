@@ -1,0 +1,14 @@
+/__pycache__
+launcher.exe
+user_data.txt
+/generated/
+/instances/
+/runtime/
+/TEMP/
+/docs/
+/binaries/Everything.db
+/binaries/Everything.exe
+config.py
+prompt1.py
+fossa.exe
+*.bak
