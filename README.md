@@ -31,7 +31,7 @@
 * **Everything Search Engine (for file searching):** Download the full version from its [website](https://www.voidtools.com/downloads) and install it in the "binaries" folder of this cloned repository.
 * **Moondream model:** Download from [Huggingface](https://huggingface.co/vikhyatk/moondream2) and place it in the `instances\\moondream` folder of this cloned repository.
 * **ChatTTS model:** Obtain the modified integrated ChatTTS model from [here](https://www.123pan.com/s/oZO9jv-g46N.html), then unzip it into the `instances\\chatTTS` folder of this cloned repository. **Extraction code: 1145**
-* **Paraformer model:** Obtain it from [Magic Model Zone](https://www.modelscope.cn/models/iic/speech_paraformer-large-vad-punc_asr_nat-zh-cn-16k-common-vocab8404-pytorch/summary), then unzip it into the `instances\\paraformer-zh` folder of this cloned repository.
+* **Paraformer model:** Obtain it from [Modelscope](https://www.modelscope.cn/models/iic/speech_paraformer-large-vad-punc_asr_nat-zh-cn-16k-common-vocab8404-pytorch/summary), then unzip it into the `instances\\paraformer-zh` folder of this cloned repository.
 * Note: When unzipping the above models, simply unzip the contained files into the specified folder, do not unzip the folder within the compressed file.
 
 **2. Installation:**
