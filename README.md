@@ -1,6 +1,6 @@
 ## Interactive Neural Network Workflow Framework - DSN
 
-**English** | [简体中文](https://github.com/ccjjfdyqlhy/DSN/blob/main/README_zh-CN.md)  
+**English** | [简体中文](https://github.com/ccjjfdyqlhy/DSN-pre/blob/main/README_zh-CN.md)  
 
 **DSN** is a powerful and innovative interactive prompt framework that combines the power of large language models with deep learning capabilities, creating truly intelligent and engaging conversational experiences.
 
