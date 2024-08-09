@@ -91,5 +91,3 @@ DSN is now ready to answer your questions, execute your commands, and help you w
 
 * **Please Note: You must read and agree to all terms of use in the `LICENCE` file before starting to use.**  
 * You will be presented with other features upon activating the interactive terminal.
-
-This is a translated version of a repository's readme file.  I hope this helps! Let me know if you have any other questions. 
