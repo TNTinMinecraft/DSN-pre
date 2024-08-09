@@ -1,6 +1,6 @@
 ## 交互式神经网络工作流框架 - DSN 
 
-[English](https://github.com/ccjjfdyqlhy/DSN/) | **简体中文**  
+[English](https://github.com/ccjjfdyqlhy/DSN-pre/) | **简体中文**  
 
 **DSN** 是一种强大且创新的交互式提示框架，它结合了大型语言模型的强大功能和深度学习能力，创造出真正智能且引人入胜的对话体验。
 
