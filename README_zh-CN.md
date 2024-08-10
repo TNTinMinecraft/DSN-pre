@@ -31,7 +31,7 @@
 * **Everything 搜索引擎（用于文件搜索）：** 从其 [网站](https://www.voidtools.com/downloads) 下载完整版，然后安装到此克隆仓库的 "binaries" 文件夹中。
 * **Moondream 模型：** 从 [Huggingface](https://huggingface.co/vikhyatk/moondream2) 下载到此克隆仓库的 `instances\\moondream` 文件夹中。
 * **ChatTTS 模型：** 从 [此处](https://www.123pan.com/s/oZO9jv-g46N.html) 获取修改版的整合ChatTTS模型，然后将其解压到此克隆仓库的 `instances\\chatTTS` 文件夹中。**提取码:1145**
-* **Paraformer 模型：** 从 [魔搭设区](https://www.modelscope.cn/models/iic/speech_paraformer-large-vad-punc_asr_nat-zh-cn-16k-common-vocab8404-pytorch/summary) 获取，然后将其解压到此克隆仓库的 `instances\\paraformer-zh` 文件夹中。
+* **Paraformer 模型：** 从 [魔搭社区](https://www.modelscope.cn/models/iic/speech_paraformer-large-vad-punc_asr_nat-zh-cn-16k-common-vocab8404-pytorch/summary) 获取，然后将其解压到此克隆仓库的 `instances\\paraformer-zh` 文件夹中。
 * 注：以上模型解压时均直接将内含文件解压到指定文件夹即可，不要连带压缩包内文件夹一起解压。
 
 **2. 安装:**
